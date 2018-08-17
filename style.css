@@ -1,0 +1,58 @@
+body {
+    background-color: grey;
+    margin: 10px;
+}
+header {
+    padding: 40px;
+    background-color: white;
+    margin: 10px;
+    text-align: center;
+}
+nav {
+    padding: 40px;
+    background-color: white;
+    margin: 10px;
+    text-align: center;
+}
+section {
+    float: left;
+    background-color: white;
+    margin: 0px 10px 0px 10px;
+    text-align: center;
+    width: 50%;
+}
+article {
+    background-color: grey;
+    margin: 10px 30px 35px 30px;
+    border: 1px white solid;
+    color:white;
+}
+h1 {
+    background-color: white;
+    margin: 10px;
+    color:black;
+}
+p {
+    background-color: white;
+    border: white 1px solid;
+    margin: 10px;
+    color:black;
+}
+aside {
+    background-color: white;
+    margin: 0px 10px 0px 0px;
+    width: 45%;
+    float: right;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 128px;
+}
+
+footer {
+    text-align: center;
+    padding:30px;
+    background-color:white;
+    margin-top: 175px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
